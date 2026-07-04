@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/YOURUSERNAME/YourRepoName/main/aim-assist.lua
+https://raw.githubusercontent.com/Trixo/MrTrixo/main/aim-assist.lua
